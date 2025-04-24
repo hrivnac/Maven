@@ -5,7 +5,10 @@ Maven repository for
 To use:
 <pre>
 @GrabResolver(name='lomikel', root='https://raw.githubusercontent.com/hrivnac/Maven/main/')
-@Grab(group='com.hrivnac', module='Lomikel', version='03.06.00')
+@GrabResolver(name='central', root='https://repo1.maven.org/maven2/')
+@Grab(group='com.hrivnac',              module='Lomikel', version='03.06.00')
+@Grab(group='org.apache.logging.log4j', module='log4j-core', version='2.23.1')
+
 import com.Lomikel.Utils.Init
 Init.init("GrabTest")
 </pre>
