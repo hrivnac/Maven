@@ -10,32 +10,31 @@
   <packaging>jar</packaging>
 
   <name>Lomikel</name>
-  <description>A Java/Groovy library for Lomikel</description>
+  <description>set of general purpose tools</description>
   <url>https://github.com/hrivnac/Maven</url>
 
   <licenses>
     <license>
       <name>Apache License, Version 2.0</name>
       <url>http://www.apache.org/licenses/LICENSE-2.0</url>
-    </license>
-  </licenses>
+      </license>
+    </licenses>
 
   <developers>
     <developer>
       <id>hrivnac</id>
-      <name>Hrivnac</name>
-      <email>Julius.Hrivbnac@cern.ch</email>
-    </developer>
-  </developers>
+      <name>Julius Hrivnac</name>
+      <email>Julius.Hrivnac@cern.ch</email>
+      </developer>
+    </developers>
 
   <scm>
     <url>https://github.com/hrivnac/Maven</url>
     <connection>scm:git:https://github.com/hrivnac/Maven.git</connection>
     <developerConnection>scm:git:git@github.com:hrivnac/Maven.git</developerConnection>
-  </scm>
+    </scm>
   
-  
-   <properties>
+  <properties>
     <cli.version>1.2</cli.version>
     <joinery-dataframe.version>1.10</joinery-dataframe.version>
     <jakarta.mail.version>2.1.3</jakarta.mail.version>
@@ -166,7 +165,5 @@
       <version>${janusgraph.version}</version>
       </dependency>
     </dependencies>
- 
-  
-  
-</project>
+
+  </project>
