@@ -1,0 +1,6 @@
+ToDo
+----
+
+- enable transitive loading of external packages
+- convert to real GitHub Maven project
+- automatize update from Lomikel 
