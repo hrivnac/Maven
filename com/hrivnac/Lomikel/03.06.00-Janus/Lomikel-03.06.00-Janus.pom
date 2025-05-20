@@ -42,7 +42,7 @@
     <orgjson.version>0.12.5</orgjson.version>
     <parquethadoop.version>0.28.0</parquethadoop.version>
     <math3.version>3.6.1</math3.version>
-    <groovy.version>4.0.21</groovy.version>
+    <groovy.version>4.0.9</groovy.version>
     <parquet-avro.version>1.14.1</parquet-avro.version>
     <hbase.version>2.6.0-hadoop3</hbase.version>
     <log4j.version>2.23.1</log4j.version>
