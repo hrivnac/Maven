@@ -4,7 +4,7 @@ Maven repository for
 <li><a href="https://cern.ch/hrivnac/Activities/Packages/Grapher">https://cern.ch/hrivnac/Activities/Packages/Grapher</a></li>
 </ul>
 <hr/>
-To use Lomikel via Gradle, put following declaration into your Groovy code:
+To use Lomikel via <a href="https://gradle.com">Gradle</a>, put following declaration into your <a href="https://groovy-lang.org">Groovy</a> code (with appropriate version numbers):
 <pre>
 @GrabResolver(name='hrivnac', root='https://raw.githubusercontent.com/hrivnac/Maven/main/')
 @GrabResolver(name='central', root='https://repo1.maven.org/maven2/')
@@ -18,7 +18,7 @@ import com.Lomikel.Apps.LUC
 LUC.main()
 </pre>
 <hr/>
-To use Grapher via Gradle, put following declaration into your Groovy code:
+To use Grapher via  <a href="https://gradle.com">Gradle</a>, put following declaration into your <a href="https://groovy-lang.org">Groovy</a> code (with appropriate version numbers):
 <pre>
 @GrabResolver(name='hrivnac', root='https://raw.githubusercontent.com/hrivnac/Maven/main/')
 @GrabResolver(name='central', root='https://repo1.maven.org/maven2/')
@@ -31,5 +31,5 @@ import com.Lomikel.Apps.LUC
 LUC.main()
 </pre>
 <hr/>
-To install Lomikel and Grapher via Maven, use example pom.xml file and install it with <code>mvn install</code>:
+To install Lomikel and Grapher via <a href="https://maven.apache.org">Maven</a>, use example pom.xml file and install it with <code>mvn install</code>:
 <hr/>
