@@ -31,51 +31,5 @@ import com.Lomikel.Apps.LUC
 LUC.main()
 </pre>
 <hr/>
-To install Lomikel and Grapher via Maven, put following declaration into your pom.xml file and install it with <code>mvn install</code>:
-<pre>
-<project>
-
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>x.y.z</groupId>
-  <artifactId>ABC</artifactId>
-  <version>00.00.00</version>
-  <packaging>jar</packaging>
-
-  <repositories>
-    <repository>
-      <id>hrivnac</id>
-      <url>https://raw.githubusercontent.com/hrivnac/Maven/main/</url>
-      </repository>
-    </repositories>
-
-  <dependencies>
-    <dependency>
-      <groupId>com.hrivnac</groupId>
-      <artifactId>Lomikel</artifactId>
-      <version>03.06.00</version>
-      </dependency>
-    <dependency>
-      <groupId>com.hrivnac</groupId>
-      <artifactId>Lomikel</artifactId>
-      <version>03.06.00-ext</version>
-      </dependency>
-    <dependency>
-      <groupId>com.hrivnac</groupId>
-      <artifactId>Lomikel</artifactId>
-      <version>03.06.00-HBase</version>
-      </dependency>
-    <dependency>
-      <groupId>com.hrivnac</groupId>
-      <artifactId>Lomikel</artifactId>
-      <version>03.06.00-Janus</version>
-      </dependency>
-    <dependency>
-      <groupId>com.hrivnac</groupId>
-      <artifactId>Grapher</artifactId>
-      <version>01.02.00</version>
-      </dependency>
-    </dependencies>
-    
-</project>
-</pre>
+To install Lomikel and Grapher via Maven, use example pom.xml file and install it with <code>mvn install</code>:
 <hr/>
