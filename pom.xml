@@ -6,7 +6,8 @@
   <version>00.00.00</version>
   <packaging>jar</packaging>
   
-  <name>Users of Lomikel and Grapher</name>
+  <name>User of Lomikel and Grapher</name>
+  <description>An example of pom file using Lomikel and Grapher</description>
 
   <repositories>
     <repository>
