@@ -1,0 +1,43 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+                             http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.hrivnac</groupId>
+  <artifactId>Lomikel-data</artifactId>
+  <version>03.07.00</version>
+  <packaging>jar</packaging>
+
+  <name>Lomikel</name>
+  <description>data for Lomikel</description>
+  <url>https://github.com/hrivnac/Maven</url>
+
+  <licenses>
+    <license>
+      <name>Apache License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+      </license>
+    </licenses>
+
+  <developers>
+    <developer>
+      <id>hrivnac</id>
+      <name>Julius Hrivnac</name>
+      <email>Julius.Hrivnac@cern.ch</email>
+      </developer>
+    </developers>
+
+  <scm>
+    <url>https://github.com/hrivnac/Maven</url>
+    <connection>scm:git:https://github.com/hrivnac/Maven.git</connection>
+    <developerConnection>scm:git:git@github.com:hrivnac/Maven.git</developerConnection>
+    </scm>
+  
+  <properties>
+    </properties>
+  
+  <dependencies>
+    </dependencies>
+  
+  </project>
