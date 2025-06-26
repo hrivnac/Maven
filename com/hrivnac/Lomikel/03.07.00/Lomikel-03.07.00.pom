@@ -6,7 +6,7 @@
 
   <groupId>com.hrivnac</groupId>
   <artifactId>Lomikel</artifactId>
-  <version>03.07.00</version>
+  <version>03.07.00-HBase</version>
   <packaging>jar</packaging>
 
   <name>Lomikel</name>
