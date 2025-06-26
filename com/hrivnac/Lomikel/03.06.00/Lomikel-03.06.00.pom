@@ -165,7 +165,5 @@
       <version>${janusgraph.version}</version>
       </dependency>
     </dependencies>
-    
-  <packaging>jar</packaging>
   
   </project>
