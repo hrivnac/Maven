@@ -1,10 +1,10 @@
 <project>
 
   <modelVersion>4.0.0</modelVersion>
-  <groupId>x.y.z</groupId>
+  <!--groupId>x.y.z</groupId>
   <artifactId>ABC</artifactId>
   <version>00.00.00</version>
-  <packaging>jar</packaging>
+  <packaging>jar</packaging-->
   
   <name>User of Lomikel and Grapher</name>
   <description>An example of pom file using Lomikel and Grapher</description>
@@ -24,23 +24,23 @@
       </dependency>
     <dependency>
       <groupId>com.hrivnac</groupId>
-      <artifactId>Lomikel</artifactId>
-      <version>03.07.00-ext</version>
+      <artifactId>Lomikel-ext</artifactId>
+      <version>03.07.00</version>
       </dependency>
     <dependency>
       <groupId>com.hrivnac</groupId>
-      <artifactId>Lomikel</artifactId>
-      <version>03.07.00-HBase</version>
+      <artifactId>Lomikel-HBase</artifactId>
+      <version>03.07.00</version>
       </dependency>
     <dependency>
       <groupId>com.hrivnac</groupId>
-      <artifactId>Lomikel</artifactId>
-      <version>03.07.00-Janus</version>
+      <artifactId>Lomikel-Janus</artifactId>
+      <version>03.07.00</version>
       </dependency>
     <dependency>
       <groupId>com.hrivnac</groupId>
-      <artifactId>Lomikel</artifactId>
-      <version>03.07.00-data</version>
+      <artifactId>Lomikel-data</artifactId>
+      <version>03.07.00</version>
       </dependency>
     <dependency>
       <groupId>com.hrivnac</groupId>
